@@ -53,6 +53,13 @@ Docker es una plataforma de contenedores que permite la creación, distribución
 
 En conclusión, el análisis de este proyecto nos permite entender cómo se relacionan las diferentes partes en un sistema con múltiples servicios, y nos presenta las nuevas tecnologías utilizadas en la actualidad. Además, los archivos más importantes del proyecto incluyen los archivos de manejo del input y output, los archivos de configuración de los servicios, los archivos de conexión a las bases de datos y los archivos de carga de la información. Estos archivos son cruciales para el correcto funcionamiento de la aplicación web en su conjunto.
 
+# Listado de posibles mejoras
+
+Solo tuve dos posibles mejoras:
+
+- Prueba de errorres con mesajes de alertas cuandoa algo no pueda ir mas alla de la app como (Ala hora de ingresar un numero que no se pueda, letras, o cuando no se ingresen datos).
+
+- Diseño de la app
 
 
 
