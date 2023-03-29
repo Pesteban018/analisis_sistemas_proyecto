@@ -9,11 +9,11 @@ Asignatura: Analisis de sistemas
 Maestro: Lizandro Ramirez
 
 
-## Introducción
+# Introducción
 
 En este documento se presentará una documentación detallada de un proyecto de aplicación web que ha sido diseñado para ofrecer una experiencia de usuario satisfactoria. Esta aplicación utiliza una variedad de tecnologías y componentes para almacenar información de usuario en una base de datos Postgres y Redis, realizar cálculos complejos en un worker y presentar los resultados en una página web utilizando un cliente React.
 
-## Marco teorico
+# Marco teorico
 
 En este proyecto se utilizaron algunas herramientas como:
 
@@ -46,10 +46,10 @@ Docker es una plataforma de contenedores que permite la creación, distribución
 
 
 
-## Prueba de funcionamiento
+# Prueba de funcionamiento
 [CLIC PARA VER EL VIDEO](https://drive.google.com/file/d/1onXzkCFICTzSM5W6Pz71HtJrC_1ejaTK/view?usp=share_link)
 
-## Conclución
+# Conclución
 
 En conclusión, el análisis de este proyecto nos permite entender cómo se relacionan las diferentes partes en un sistema con múltiples servicios, y nos presenta las nuevas tecnologías utilizadas en la actualidad. Además, los archivos más importantes del proyecto incluyen los archivos de manejo del input y output, los archivos de configuración de los servicios, los archivos de conexión a las bases de datos y los archivos de carga de la información. Estos archivos son cruciales para el correcto funcionamiento de la aplicación web en su conjunto.
 
