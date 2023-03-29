@@ -2,7 +2,7 @@
 
 **Nombre:** Esteban Pacheco
 
-**Matricula: **2021-1076
+**Matricula:** 2021-1076
 
 **Asignatura:** Analisis de sistemas
 
