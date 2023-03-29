@@ -46,7 +46,7 @@ Docker es una plataforma de contenedores que permite la creación, distribución
 
 
 
-## Video explicativo
+## Prueba de funcionamiento
 [CLIC PARA VER EL VIDEO](https://drive.google.com/file/d/1onXzkCFICTzSM5W6Pz71HtJrC_1ejaTK/view?usp=share_link)
 
 ## Conclución
