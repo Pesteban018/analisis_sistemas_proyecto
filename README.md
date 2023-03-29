@@ -1,12 +1,12 @@
 # Precentación
 
-Nombre: Esteban Pacheco
+**Nombre:** Esteban Pacheco
 
-Matricula: 2021-1076
+**Matricula: **2021-1076
 
-Asignatura: Analisis de sistemas
+**Asignatura:** Analisis de sistemas
 
-Maestro: Lizandro Ramirez
+**Maestro:** Lizandro Ramirez
 
 
 # Introducción
