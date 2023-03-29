@@ -1,2 +1,1 @@
-# analisis_sistemas_proyecto
-Proyecto final análisis y sistemas
+# Proyecto final de analisis y sistemas
